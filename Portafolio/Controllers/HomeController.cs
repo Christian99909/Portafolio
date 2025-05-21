@@ -34,7 +34,7 @@ namespace Portafolio.Controllers
             return View(modelo);
         }
         
-        
+        /**/
         public IActionResult Privacy()
         {
             return View();
